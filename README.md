@@ -1,0 +1,2 @@
+- Latihan Fragment di Activity  
+- Latihan Activity KTX dan Fragment KTX
